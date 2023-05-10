@@ -1,0 +1,178 @@
+2023-03-26 12:49:49 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-03-26 12:49:49 0 [Note] InnoDB: Number of pools: 1
+2023-03-26 12:49:49 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-03-26 12:49:49 0 [Note] InnoDB: Initializing buffer pool, total size = 15728640, chunk size = 15728640
+2023-03-26 12:49:49 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-03-26 12:49:49 0 [Note] InnoDB: Resizing redo log from 100663296 to 10485760 bytes; LSN=42173
+2023-03-26 12:49:49 0 [Note] InnoDB: Starting to delete and rewrite log file.
+2023-03-26 12:49:50 0 [Note] InnoDB: Setting log file ./ib_logfile101 size to 10485760 bytes
+2023-03-26 12:49:50 0 [Note] InnoDB: Renaming log file ./ib_logfile101 to ./ib_logfile0
+2023-03-26 12:49:50 0 [Note] InnoDB: New log file created, LSN=42173
+2023-03-26 12:49:50 0 [Note] InnoDB: 128 rollback segments are active.
+2023-03-26 12:49:50 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-03-26 12:49:50 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-03-26 12:49:50 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-03-26 12:49:50 0 [Note] InnoDB: 10.6.5 started; log sequence number 42161; transaction id 14
+2023-03-26 12:49:50 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-03-26 12:49:50 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2023-03-26 12:49:50 0 [Warning] 'innodb-thread-concurrency' was removed. It does nothing now and exists only for compatibility with old my.cnf files.
+2023-03-26 12:49:50 0 [Warning] 'innodb-thread-concurrency' was removed. It does nothing now and exists only for compatibility with old my.cnf files.
+2023-03-26 12:49:50 0 [Note] Server socket created on IP: '::'.
+2023-03-26 12:49:50 0 [Note] Server socket created on IP: '0.0.0.0'.
+2023-03-26 12:49:50 0 [Note] InnoDB: Buffer pool(s) load completed at 230326 12:49:50
+2023-03-26 12:49:50 0 [Note] c:\dolibarr\bin\mariadb\mariadb10.6.5\bin\mysqld.exe: ready for connections.
+Version: '10.6.5-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2023-04-23 18:07:54 0 [Note] mysqld.exe: Aria engine: starting recovery
+recovered pages: 0% 18% 33% 55% 80% 94% 100% (0.2 seconds); tables to flush: 2 1 0
+ (0.2 seconds); 
+2023-04-23 18:07:54 0 [Note] mysqld.exe: Aria engine: recovery done
+2023-04-23 18:07:54 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-23 18:07:54 0 [Note] InnoDB: Number of pools: 1
+2023-04-23 18:07:54 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-04-23 18:07:54 0 [Note] InnoDB: Initializing buffer pool, total size = 15728640, chunk size = 15728640
+2023-04-23 18:07:54 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-23 18:07:54 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=9320617,9820340
+2023-04-23 18:08:00 0 [Note] InnoDB: Starting final batch to recover 451 pages from redo log.
+2023-04-23 18:08:09 0 [Note] InnoDB: To recover: 207 pages from log
+2023-04-23 18:08:22 0 [Note] InnoDB: 128 rollback segments are active.
+2023-04-23 18:08:24 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-04-23 18:08:24 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-23 18:08:24 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-23 18:08:24 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-04-23 18:08:24 0 [Note] InnoDB: 10.6.5 started; log sequence number 11321991; transaction id 11906
+2023-04-23 18:08:24 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2023-04-23 18:08:24 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-23 18:08:24 0 [Note] InnoDB: Buffer pool(s) load completed at 230423 18:08:24
+2023-04-23 18:08:25 0 [Warning] 'innodb-thread-concurrency' was removed. It does nothing now and exists only for compatibility with old my.cnf files.
+2023-04-23 18:08:25 0 [Warning] 'innodb-thread-concurrency' was removed. It does nothing now and exists only for compatibility with old my.cnf files.
+2023-04-23 18:08:26 0 [Note] Server socket created on IP: '::'.
+2023-04-23 18:08:26 0 [Note] Server socket created on IP: '0.0.0.0'.
+2023-04-23 18:08:30 0 [Note] c:\dolibarr\bin\mariadb\mariadb10.6.5\bin\mysqld.exe: ready for connections.
+Version: '10.6.5-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2023-04-26 21:45:01 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-26 21:45:01 0 [Note] InnoDB: Number of pools: 1
+2023-04-26 21:45:01 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-04-26 21:45:01 0 [Note] InnoDB: Initializing buffer pool, total size = 15728640, chunk size = 15728640
+2023-04-26 21:45:01 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-26 21:45:02 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=9320617,9320617
+2023-04-26 21:45:05 0 [Note] InnoDB: Starting final batch to recover 467 pages from redo log.
+2023-04-26 21:45:07 0 [Note] InnoDB: 128 rollback segments are active.
+2023-04-26 21:45:08 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-04-26 21:45:08 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-26 21:45:08 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-26 21:45:08 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-04-26 21:45:08 0 [Note] InnoDB: 10.6.5 started; log sequence number 11326412; transaction id 11906
+2023-04-26 21:45:08 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-26 21:45:08 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2023-04-26 21:45:08 0 [Note] InnoDB: Buffer pool(s) load completed at 230426 21:45:08
+2023-04-26 21:45:09 0 [Warning] 'innodb-thread-concurrency' was removed. It does nothing now and exists only for compatibility with old my.cnf files.
+2023-04-26 21:45:09 0 [Warning] 'innodb-thread-concurrency' was removed. It does nothing now and exists only for compatibility with old my.cnf files.
+2023-04-26 21:45:10 0 [Note] Server socket created on IP: '::'.
+2023-04-26 21:45:10 0 [Note] Server socket created on IP: '0.0.0.0'.
+2023-04-26 21:45:19 0 [Note] c:\dolibarr\bin\mariadb\mariadb10.6.5\bin\mysqld.exe: ready for connections.
+Version: '10.6.5-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2023-05-01 17:29:31 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-05-01 17:29:31 0 [Note] InnoDB: Number of pools: 1
+2023-05-01 17:29:31 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-05-01 17:29:31 0 [Note] InnoDB: Initializing buffer pool, total size = 15728640, chunk size = 15728640
+2023-05-01 17:29:31 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-05-01 17:29:31 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=9320617,9320617
+2023-05-01 17:29:37 0 [Note] InnoDB: Starting final batch to recover 467 pages from redo log.
+2023-05-01 17:29:41 0 [Note] InnoDB: 128 rollback segments are active.
+2023-05-01 17:29:44 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-05-01 17:29:44 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-05-01 17:29:44 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-05-01 17:29:44 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-05-01 17:29:44 0 [Note] InnoDB: 10.6.5 started; log sequence number 11331474; transaction id 11906
+2023-05-01 17:29:44 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2023-05-01 17:29:44 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-05-01 17:29:44 0 [Note] InnoDB: Buffer pool(s) load completed at 230501 17:29:44
+2023-05-01 17:29:44 0 [Warning] 'innodb-thread-concurrency' was removed. It does nothing now and exists only for compatibility with old my.cnf files.
+2023-05-01 17:29:44 0 [Warning] 'innodb-thread-concurrency' was removed. It does nothing now and exists only for compatibility with old my.cnf files.
+2023-05-01 17:29:45 0 [Note] Server socket created on IP: '::'.
+2023-05-01 17:29:45 0 [Note] Server socket created on IP: '0.0.0.0'.
+2023-05-01 17:29:47 0 [Note] c:\dolibarr\bin\mariadb\mariadb10.6.5\bin\mysqld.exe: ready for connections.
+Version: '10.6.5-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2023-05-02  9:25:39 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-05-02  9:25:39 0 [Note] InnoDB: Number of pools: 1
+2023-05-02  9:25:39 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-05-02  9:25:39 0 [Note] InnoDB: Initializing buffer pool, total size = 15728640, chunk size = 15728640
+2023-05-02  9:25:39 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-05-02  9:25:40 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=9320617,9320617
+2023-05-02  9:25:50 0 [Note] InnoDB: Starting final batch to recover 467 pages from redo log.
+2023-05-02  9:25:52 0 [Note] InnoDB: 128 rollback segments are active.
+2023-05-02  9:25:52 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-05-02  9:25:52 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-05-02  9:25:52 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-05-02  9:25:52 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-05-02  9:25:52 0 [Note] InnoDB: 10.6.5 started; log sequence number 11336536; transaction id 11906
+2023-05-02  9:25:52 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2023-05-02  9:25:52 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-05-02  9:25:52 0 [Note] InnoDB: Buffer pool(s) load completed at 230502  9:25:52
+2023-05-02  9:25:52 0 [Warning] 'innodb-thread-concurrency' was removed. It does nothing now and exists only for compatibility with old my.cnf files.
+2023-05-02  9:25:52 0 [Warning] 'innodb-thread-concurrency' was removed. It does nothing now and exists only for compatibility with old my.cnf files.
+2023-05-02  9:25:52 0 [Note] Server socket created on IP: '::'.
+2023-05-02  9:25:52 0 [Note] Server socket created on IP: '0.0.0.0'.
+2023-05-02  9:26:02 0 [Note] c:\dolibarr\bin\mariadb\mariadb10.6.5\bin\mysqld.exe: ready for connections.
+Version: '10.6.5-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2023-05-09 12:30:47 0 [Note] Windows service "doliwampmysqld":  received SERVICE_CONTROL_STOP
+2023-05-09 12:30:47 0 [Note] c:\dolibarr\bin\mariadb\mariadb10.6.5\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2023-05-09 12:30:47 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-05-09 12:30:48 0 [Note] InnoDB: Starting shutdown...
+2023-05-09 12:30:48 0 [Note] InnoDB: Dumping buffer pool(s) to c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2023-05-09 12:30:48 0 [Note] InnoDB: Restricted to 237 pages due to innodb_buf_pool_dump_pct=25
+2023-05-09 12:30:48 0 [Note] InnoDB: Buffer pool(s) dump completed at 230509 12:30:48
+2023-05-09 12:30:48 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-05-09 12:30:48 0 [Note] InnoDB: Shutdown completed; log sequence number 11346660; transaction id 11907
+2023-05-09 12:30:48 0 [Note] c:\dolibarr\bin\mariadb\mariadb10.6.5\bin\mysqld.exe: Shutdown complete
+
+2023-05-09 12:33:03 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-05-09 12:33:03 0 [Note] InnoDB: Number of pools: 1
+2023-05-09 12:33:03 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-05-09 12:33:03 0 [Note] InnoDB: Initializing buffer pool, total size = 15728640, chunk size = 15728640
+2023-05-09 12:33:03 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-05-09 12:33:04 0 [Note] InnoDB: 128 rollback segments are active.
+2023-05-09 12:33:09 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-05-09 12:33:09 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-05-09 12:33:09 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-05-09 12:33:09 0 [Note] InnoDB: 10.6.5 started; log sequence number 11346660; transaction id 11906
+2023-05-09 12:33:09 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2023-05-09 12:33:09 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-05-09 12:33:09 0 [Warning] 'innodb-thread-concurrency' was removed. It does nothing now and exists only for compatibility with old my.cnf files.
+2023-05-09 12:33:09 0 [Warning] 'innodb-thread-concurrency' was removed. It does nothing now and exists only for compatibility with old my.cnf files.
+2023-05-09 12:33:10 0 [Note] Server socket created on IP: '::'.
+2023-05-09 12:33:10 0 [Note] Server socket created on IP: '0.0.0.0'.
+2023-05-09 12:33:11 0 [Note] InnoDB: Buffer pool(s) load completed at 230509 12:33:11
+2023-05-09 12:33:12 0 [Note] c:\dolibarr\bin\mariadb\mariadb10.6.5\bin\mysqld.exe: ready for connections.
+Version: '10.6.5-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2023-05-09 12:33:40 0 [Note] Windows service "doliwampmysqld":  received SERVICE_CONTROL_STOP
+2023-05-09 12:33:40 0 [Note] c:\dolibarr\bin\mariadb\mariadb10.6.5\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2023-05-09 12:33:41 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-05-09 12:33:41 0 [Note] InnoDB: Starting shutdown...
+2023-05-09 12:33:41 0 [Note] InnoDB: Dumping buffer pool(s) to c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2023-05-09 12:33:41 0 [Note] InnoDB: Restricted to 237 pages due to innodb_buf_pool_dump_pct=25
+2023-05-09 12:33:41 0 [Note] InnoDB: Buffer pool(s) dump completed at 230509 12:33:41
+2023-05-09 12:33:41 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-05-09 12:33:41 0 [Note] InnoDB: Shutdown completed; log sequence number 11346672; transaction id 11907
+2023-05-09 12:33:41 0 [Note] c:\dolibarr\bin\mariadb\mariadb10.6.5\bin\mysqld.exe: Shutdown complete
+
+2023-05-09 12:33:50 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-05-09 12:33:50 0 [Note] InnoDB: Number of pools: 1
+2023-05-09 12:33:50 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-05-09 12:33:50 0 [Note] InnoDB: Initializing buffer pool, total size = 15728640, chunk size = 15728640
+2023-05-09 12:33:50 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-05-09 12:33:51 0 [Note] InnoDB: 128 rollback segments are active.
+2023-05-09 12:33:51 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-05-09 12:33:51 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-05-09 12:33:51 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-05-09 12:33:51 0 [Note] InnoDB: 10.6.5 started; log sequence number 11346672; transaction id 11906
+2023-05-09 12:33:51 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-05-09 12:33:51 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2023-05-09 12:33:51 0 [Warning] 'innodb-thread-concurrency' was removed. It does nothing now and exists only for compatibility with old my.cnf files.
+2023-05-09 12:33:51 0 [Warning] 'innodb-thread-concurrency' was removed. It does nothing now and exists only for compatibility with old my.cnf files.
+2023-05-09 12:33:51 0 [Note] Server socket created on IP: '::'.
+2023-05-09 12:33:51 0 [Note] Server socket created on IP: '0.0.0.0'.
+2023-05-09 12:33:51 0 [Note] c:\dolibarr\bin\mariadb\mariadb10.6.5\bin\mysqld.exe: ready for connections.
+Version: '10.6.5-MariaDB'  socket: ''  port: 3308  mariadb.org binary distribution
+2023-05-09 12:33:51 0 [Note] InnoDB: Buffer pool(s) load completed at 230509 12:33:51
+2023-05-09 12:33:54 3 [Warning] Access denied for user 'root'@'localhost' (using password: NO)

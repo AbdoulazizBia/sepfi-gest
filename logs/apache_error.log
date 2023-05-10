@@ -1,0 +1,46 @@
+[Sun Mar 26 12:49:47.511832 2023] [mpm_winnt:notice] [pid 6904:tid 736] AH00455: Apache/2.4.51 (Win64) PHP/7.3.33 configured -- resuming normal operations
+[Sun Mar 26 12:49:47.511832 2023] [mpm_winnt:notice] [pid 6904:tid 736] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Sun Mar 26 12:49:47.511832 2023] [core:notice] [pid 6904:tid 736] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Sun Mar 26 12:49:47.526822 2023] [mpm_winnt:notice] [pid 6904:tid 736] AH00418: Parent: Created child process 336
+[Sun Mar 26 12:49:48.150160 2023] [mpm_winnt:notice] [pid 336:tid 752] AH00354: Child: Starting 64 worker threads.
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+'id' n'est pas reconnu en tant que commande interne
+ou externe, un programme ex‚cutable ou un fichier de commandes.
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+'id' n'est pas reconnu en tant que commande interne
+ou externe, un programme ex‚cutable ou un fichier de commandes.
+'id' n'est pas reconnu en tant que commande interne
+ou externe, un programme ex‚cutable ou un fichier de commandes.
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+libpng warning: Interlace handling should be turned on when using png_read_image
+[Tue May 09 12:33:46.426523 2023] [core:warn] [pid 1960:tid 704] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 09 12:33:47.300090 2023] [mpm_winnt:notice] [pid 1960:tid 704] AH00455: Apache/2.4.51 (Win64) PHP/7.3.33 configured -- resuming normal operations
+[Tue May 09 12:33:47.300090 2023] [mpm_winnt:notice] [pid 1960:tid 704] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue May 09 12:33:47.300090 2023] [core:notice] [pid 1960:tid 704] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue May 09 12:33:47.315716 2023] [mpm_winnt:notice] [pid 1960:tid 704] AH00418: Parent: Created child process 13968
+[Tue May 09 12:33:48.098051 2023] [mpm_winnt:notice] [pid 13968:tid 164] AH00354: Child: Starting 64 worker threads.

@@ -1,0 +1,82 @@
+[26-Mar-2023 13:08:18 UTC] PHP Warning:  dns_get_record(): DNS Query failed in C:\dolibarr\www\dolibarr\htdocs\admin\mails.php on line 867
+[28-Mar-2023 10:42:55 UTC] PHP Warning:  dns_get_record(): DNS Query failed in C:\dolibarr\www\dolibarr\htdocs\admin\mails.php on line 867
+[29-Mar-2023 15:02:29 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[30-Mar-2023 11:45:11 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[30-Mar-2023 11:53:25 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[30-Mar-2023 12:04:50 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[30-Mar-2023 12:20:50 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/TK2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[30-Mar-2023 12:20:50 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/TK2303-0002) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[30-Mar-2023 12:20:50 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/TK2303-0003) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[30-Mar-2023 13:30:14 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[30-Mar-2023 13:33:27 UTC] PHP Warning:  A non-numeric value encountered in C:\dolibarr\www\dolibarr\htdocs\projet\tasks\time.php on line 1518
+[30-Mar-2023 14:17:50 UTC] PHP Fatal error:  Class TaskStats contains 2 abstract methods and must therefore be declared abstract or implement the remaining methods (Stats::getAmountByMonth, Stats::getAverageByMonth) in C:\dolibarr\www\dolibarr\htdocs\projet\class\taskstats.class.php on line 25
+[31-Mar-2023 13:13:20 UTC] PHP Warning:  dns_get_record(): DNS Query failed in C:\dolibarr\www\dolibarr\htdocs\admin\mails.php on line 867
+[31-Mar-2023 13:21:01 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[03-Apr-2023 10:10:43 UTC] PHP Fatal error:  Class TaskStats contains 2 abstract methods and must therefore be declared abstract or implement the remaining methods (Stats::getAmountByMonth, Stats::getAverageByMonth) in C:\dolibarr\www\dolibarr\htdocs\projet\class\taskstats.class.php on line 25
+[03-Apr-2023 10:15:40 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\dolibarr\www\dolibarr\htdocs\core\class\CMailFile.class.php on line 761
+[03-Apr-2023 10:27:05 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\dolibarr\www\dolibarr\htdocs\core\class\CMailFile.class.php on line 761
+[03-Apr-2023 10:30:29 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[03-Apr-2023 10:33:01 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/TK2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[03-Apr-2023 10:33:01 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/TK2303-0002) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[03-Apr-2023 10:33:01 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/TK2303-0003) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[03-Apr-2023 10:45:29 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[03-Apr-2023 10:46:43 UTC] PHP Warning:  A non-numeric value encountered in C:\dolibarr\www\dolibarr\htdocs\projet\tasks\time.php on line 1518
+[03-Apr-2023 10:46:43 UTC] PHP Warning:  A non-numeric value encountered in C:\dolibarr\www\dolibarr\htdocs\projet\tasks\time.php on line 1518
+[03-Apr-2023 10:54:24 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[03-Apr-2023 11:09:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\dolibarr\www\dolibarr\htdocs\core\db\mysqli.class.php on line 325
+[03-Apr-2023 11:33:33 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[03-Apr-2023 12:01:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Product' not found in C:\dolibarr\www\dolibarr\htdocs\core\class\html.formsetup.class.php:1106
+Stack trace:
+#0 C:\dolibarr\www\dolibarr\htdocs\core\class\html.formsetup.class.php(323): FormSetupItem->generateOutputField()
+#1 C:\dolibarr\www\dolibarr\htdocs\core\class\html.formsetup.class.php(230): FormSetup->generateLineOutput(Object(FormSetupItem), false)
+#2 C:\dolibarr\www\dolibarr\htdocs\core\class\html.formsetup.class.php(165): FormSetup->generateTableOutput(false)
+#3 C:\dolibarr\www\dolibarr\htdocs\custom\abscenceretard\admin\setup.php(307): FormSetup->generateOutput()
+#4 {main}
+  thrown in C:\dolibarr\www\dolibarr\htdocs\core\class\html.formsetup.class.php on line 1106
+[03-Apr-2023 12:02:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Product' not found in C:\dolibarr\www\dolibarr\htdocs\core\class\html.formsetup.class.php:1106
+Stack trace:
+#0 C:\dolibarr\www\dolibarr\htdocs\core\class\html.formsetup.class.php(323): FormSetupItem->generateOutputField()
+#1 C:\dolibarr\www\dolibarr\htdocs\core\class\html.formsetup.class.php(230): FormSetup->generateLineOutput(Object(FormSetupItem), false)
+#2 C:\dolibarr\www\dolibarr\htdocs\core\class\html.formsetup.class.php(165): FormSetup->generateTableOutput(false)
+#3 C:\dolibarr\www\dolibarr\htdocs\custom\abscenceretard\admin\setup.php(307): FormSetup->generateOutput()
+#4 {main}
+  thrown in C:\dolibarr\www\dolibarr\htdocs\core\class\html.formsetup.class.php on line 1106
+[03-Apr-2023 12:02:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\dolibarr\www\dolibarr\htdocs\modulebuilder\index.php on line 3199
+[03-Apr-2023 12:17:44 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[03-Apr-2023 13:48:52 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[03-Apr-2023 14:11:37 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[03-Apr-2023 16:17:53 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[03-Apr-2023 16:25:28 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[03-Apr-2023 16:52:33 UTC] PHP Warning:  dns_get_record(): DNS Query failed in C:\dolibarr\www\dolibarr\htdocs\admin\mails.php on line 867
+[04-Apr-2023 08:13:35 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 08:16:35 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 08:17:55 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 10:56:48 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 11:04:10 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 11:16:09 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 11:20:48 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 11:21:34 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 12:19:54 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 13:03:21 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 13:05:25 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 13:12:05 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 13:21:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\dolibarr\www\dolibarr\htdocs\core\lib\functions.lib.php on line 3735
+[04-Apr-2023 15:10:07 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 15:21:46 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/TK2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 15:21:46 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/TK2303-0002) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 15:21:46 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/TK2303-0003) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 16:02:02 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 16:21:07 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[04-Apr-2023 16:22:35 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[05-Apr-2023 07:46:32 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[08-Apr-2023 22:31:27 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\dolibarr\www\dolibarr\htdocs\core\class\CMailFile.class.php on line 761
+[09-Apr-2023 11:56:34 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/TK2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[09-Apr-2023 11:56:34 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/TK2303-0002) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[09-Apr-2023 11:56:34 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/TK2303-0003) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[09-Apr-2023 11:56:34 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/3) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[09-Apr-2023 11:56:34 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/1) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[09-Apr-2023 12:10:43 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[11-Apr-2023 11:33:45 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[11-Apr-2023 12:01:23 UTC] PHP Warning:  is_dir(): open_basedir restriction in effect. File(/PJ2303-0001) is not within the allowed path(s): (c:/dolibarr) in C:\dolibarr\www\dolibarr\htdocs\core\lib\files.lib.php on line 103
+[16-Apr-2023 22:30:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\dolibarr\www\dolibarr\htdocs\core\lib\functions.lib.php on line 43
+[09-May-2023 16:20:20 UTC] PHP Warning:  POST Content-Length of 163892424 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
